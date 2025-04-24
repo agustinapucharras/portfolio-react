@@ -1,0 +1,16 @@
+.cardMain{
+    display: flex;
+    justify-content: center;
+}
+
+.imgMain{
+    height: 58vh;
+}
+
+.card{
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.323);
+}
+
+.card:hover {
+    transform: translateX(20px);
+}
