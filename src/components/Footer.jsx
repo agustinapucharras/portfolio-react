@@ -5,7 +5,7 @@ import { FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa';
 const Footer = () => {
   return (
     <div style={{ textAlign: 'center', padding: '1rem', backgroundColor: '#f8f9fa' }}>
-      <a href="https://www.facebook.com/agus.pucharra´p" target="_blank" rel="noopener noreferrer" style={{ margin: '0 10px' }}>
+      <a href="https://www.facebook.com/agus.pucharra" target="_blank" rel="noopener noreferrer" style={{ margin: '0 10px' }}>
         <FaFacebook size={24} color="#4267B2" />
       </a>
       <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" style={{ margin: '0 10px' }}>
